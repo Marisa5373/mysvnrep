@@ -7,7 +7,7 @@ public class SVNMain {
 		System.out.print("hello");
 		System.out.print("hello fix 1");
 		System.out.print("hello fix 1.1");
-
+		System.out.print("hello fix 1.2");
 	}
 
 }
